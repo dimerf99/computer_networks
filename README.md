@@ -1,1 +1,1 @@
-# komputer_networks
+# computer_networks
